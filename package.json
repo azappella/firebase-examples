@@ -1,0 +1,20 @@
+{
+  "name": "firebase-examples",
+  "version": "0.1.0",
+  "description": "Firebase function example repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "functions",
+    "cloud",
+    "functions"
+  ],
+  "author": "Andrew Zappella az@ppella.com",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^3.9.1"
+  }
+}
